@@ -44,6 +44,7 @@ To set up a monitor that checks the number of write requests issued to the devic
 DONE
 
 Task 2 | Navigate to the Dashboards tab. Then, click on the New Dashboard button to create a new blank dashboard.
-Aft[3~er you create a new dashboard, you can add widgets to it to display your data sources. To add a widget, click on the Add Widget button on the top-right corner of the dashboard, and select the type of widget you want to add, such as a time series graph, log stream, or alert graph.( Create 4, any of your choice but make sure it's 4) * To get the dashboard_id https://app.datadoghq.com/dashboard/ztd-9gg-ka5/Oyeyemis-dashboard-Thu-Jun-8-94636-pm?from_ts=1686253600884&to_ts=1686257200884&live=true *copy the part of the URL after "dashboard/" and before the next forward slash, which in this case is "ztd-9gg-ka5"
+Aft[3~er you create a new dashboard, you can add widgets to it to display your data sources. To add a widget, click on the Add Widget button on the top-right corner of the dashboard, and select the type of widget you want to add, such as a time series graph, log stream, or alert graph.( Create 4, any of your choice but make sure it's 4) * To get the dashboard_id https://app.datadoghq.com/dashboard/ztd-9gg-ka5/Oyeyemis-dashboard-Thu-Jun-8-94636-pm?from_ts=1686253600884&to_ts=1686257200884&live=true *copy the part of the URL after "dashboard/" and before the next forward slash, which in this case is 
+"ztd-9gg-ka5"
 
 DONE
